@@ -8,10 +8,22 @@ body {
 
 }
 
+
+
+#lol{
+  height: 400px;
+  width: 400px;
+}
+
+#lmao{
+  height: 400px;
+  width: 300px;
+}
+
 .container {
     width: 80%;
     margin: auto;
-    overflow: hidden;
+     overflow: hidden;
 }
 
 #main-header {
